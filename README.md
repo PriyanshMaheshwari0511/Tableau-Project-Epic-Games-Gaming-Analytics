@@ -1,6 +1,6 @@
 # Olympic Games Analytics Dashboard 
 
-### Dashboard Link : https://public.tableau.com/app/profile/priyansh.maheshwari8603/viz/TableauProjectEpicGamesGamingAnalytics/Dashboard1?publish=yes
+### Dashboard Link: https://public.tableau.com/app/profile/priyansh.maheshwari8603/viz/TableauProjectEpicGamesGamingAnalytics/Dashboard1?publish=yes
 
 ## Description
 The Olympic Games unite athletes from around the world, fostering a spirit of competition and unity. The International Olympics Committee meticulously records athlete data, event details, and medal distributions to facilitate future Games and improve the overall experience.
@@ -53,7 +53,6 @@ Identify any patterns, trends, or correlations between athlete performance, meda
 ![Screenshot (148)](https://github.com/user-attachments/assets/05a12b73-d7ff-408f-8027-5408cd6e52e3)
 ![Screenshot (147)](https://github.com/user-attachments/assets/b4a5372a-6408-4d6b-9279-e593d6a32208)
 ![Screenshot (157)](https://github.com/user-attachments/assets/35813cb0-72f6-40fc-a4ef-7eb4b9a103d3)
-
 ![Screenshot (156)](https://github.com/user-attachments/assets/5bcc0751-7da0-41c4-b0ce-a09f38634592)
 
 
